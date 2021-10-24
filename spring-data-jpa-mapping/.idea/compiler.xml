@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="15">
+      <module name="awssqs" target="1.8" />
+      <module name="compsitekey" target="16" />
+      <module name="flight-service-example" target="15" />
+      <module name="spring-data-jpa-mapping" target="15" />
+      <module name="spring-jpa-tut" target="15" />
+      <module name="spring-security-jwt" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="awssqs" options="-parameters" />
+      <module name="compsitekey" options="-parameters" />
+      <module name="flight-service-example" options="-parameters" />
+      <module name="spring-data-jpa-mapping" options="-parameters" />
+      <module name="spring-jpa-tut" options="-parameters" />
+      <module name="spring-security-jwt" options="-parameters" />
+    </option>
+  </component>
+</project>

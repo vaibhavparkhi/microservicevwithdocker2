@@ -21,6 +21,10 @@ class SquareTest {
 
     private void assertValues(int expected, IntSupplier intSupplier) {
         Assertions.assertEquals(expected, intSupplier.getAsInt());
+
     }
 
+    @Test
+    void name() {
+    }
 }

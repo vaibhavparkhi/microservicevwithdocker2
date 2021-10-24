@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/AlgoExpert/AlgoExpert.iml" filepath="$PROJECT_DIR$/../../BasicInJava/AlgoExpert/AlgoExpert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/Algorithem/Algorithem.iml" filepath="$PROJECT_DIR$/../../BasicInJava/Algorithem/Algorithem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/DesignPattrens/DesignPattrens.iml" filepath="$PROJECT_DIR$/../../BasicInJava/DesignPattrens/DesignPattrens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/Java8/Java8.iml" filepath="$PROJECT_DIR$/../../BasicInJava/Java8/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/Java8to15/Java8to15.iml" filepath="$PROJECT_DIR$/../../BasicInJava/Java8to15/Java8to15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/JavaInterviewCoding/JavaInterviewCoding.iml" filepath="$PROJECT_DIR$/../../BasicInJava/JavaInterviewCoding/JavaInterviewCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BasicInJava/Reactive-Java/Reactive-Java.iml" filepath="$PROJECT_DIR$/../../BasicInJava/Reactive-Java/Reactive-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-jpa-tut/spring-jpa-tut.iml" filepath="$PROJECT_DIR$/../spring-jpa-tut/spring-jpa-tut.iml" />
+    </modules>
+  </component>
+</project>
